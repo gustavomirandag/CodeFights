@@ -36,5 +36,14 @@
     <ClCompile Include="AtTheCrossroads\MetroCard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CornerOf0sAnd1s\CreateArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CornerOf0sAnd1s\ArrayReplace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CornerOf0sAnd1s\FirstReverseTry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
