@@ -24,6 +24,7 @@
     <ClCompile Include="AtTheCrossroads\IsInfiniteProcess.cpp" />
     <ClCompile Include="AtTheCrossroads\KnapsackLight.cpp" />
     <ClCompile Include="AtTheCrossroads\TennisSet.cpp" />
+    <ClCompile Include="AtTheCrossroads\WillYou.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2FD13691-137F-4FB0-988A-215B37EDC576}</ProjectGuid>
