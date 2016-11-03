@@ -23,6 +23,7 @@
     <ClCompile Include="AtTheCrossroads\ExtraNumber.cpp" />
     <ClCompile Include="AtTheCrossroads\IsInfiniteProcess.cpp" />
     <ClCompile Include="AtTheCrossroads\KnapsackLight.cpp" />
+    <ClCompile Include="AtTheCrossroads\MetroCard.cpp" />
     <ClCompile Include="AtTheCrossroads\TennisSet.cpp" />
     <ClCompile Include="AtTheCrossroads\WillYou.cpp" />
   </ItemGroup>
