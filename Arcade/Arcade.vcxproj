@@ -27,6 +27,7 @@
     <ClCompile Include="AtTheCrossroads\TennisSet.cpp" />
     <ClCompile Include="AtTheCrossroads\WillYou.cpp" />
     <ClCompile Include="CornerOf0sAnd1s\ArrayReplace.cpp" />
+    <ClCompile Include="CornerOf0sAnd1s\ConcatenateArrays.cpp" />
     <ClCompile Include="CornerOf0sAnd1s\CreateArray.cpp" />
     <ClCompile Include="CornerOf0sAnd1s\FirstReverseTry.cpp" />
   </ItemGroup>
