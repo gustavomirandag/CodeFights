@@ -27,5 +27,8 @@
     <ClCompile Include="AtTheCrossroads\ArithmeticExpression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="AtTheCrossroads\TennisSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

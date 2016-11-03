@@ -23,6 +23,7 @@
     <ClCompile Include="AtTheCrossroads\ExtraNumber.cpp" />
     <ClCompile Include="AtTheCrossroads\IsInfiniteProcess.cpp" />
     <ClCompile Include="AtTheCrossroads\KnapsackLight.cpp" />
+    <ClCompile Include="AtTheCrossroads\TennisSet.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2FD13691-137F-4FB0-988A-215B37EDC576}</ProjectGuid>
