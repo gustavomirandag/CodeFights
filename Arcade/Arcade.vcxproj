@@ -26,10 +26,10 @@
     <ClCompile Include="AtTheCrossroads\MetroCard.cpp" />
     <ClCompile Include="AtTheCrossroads\TennisSet.cpp" />
     <ClCompile Include="AtTheCrossroads\WillYou.cpp" />
-    <ClCompile Include="CornerOf0sAnd1s\ArrayReplace.cpp" />
-    <ClCompile Include="CornerOf0sAnd1s\ConcatenateArrays.cpp" />
-    <ClCompile Include="CornerOf0sAnd1s\CreateArray.cpp" />
-    <ClCompile Include="CornerOf0sAnd1s\FirstReverseTry.cpp" />
+    <ClCompile Include="ListForestEdge\ArrayReplace.cpp" />
+    <ClCompile Include="ListForestEdge\ConcatenateArrays.cpp" />
+    <ClCompile Include="ListForestEdge\CreateArray.cpp" />
+    <ClCompile Include="ListForestEdge\FirstReverseTry.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2FD13691-137F-4FB0-988A-215B37EDC576}</ProjectGuid>
