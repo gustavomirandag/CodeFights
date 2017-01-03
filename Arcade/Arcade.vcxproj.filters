@@ -54,5 +54,8 @@
     <ClCompile Include="ListForestEdge\IsSmooth.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ListForestEdge\ReplaceMiddle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

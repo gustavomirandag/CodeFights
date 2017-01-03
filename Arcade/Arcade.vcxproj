@@ -32,6 +32,7 @@
     <ClCompile Include="ListForestEdge\FirstReverseTry.cpp" />
     <ClCompile Include="ListForestEdge\IsSmooth.cpp" />
     <ClCompile Include="ListForestEdge\RemoveArrayPart.cpp" />
+    <ClCompile Include="ListForestEdge\ReplaceMiddle.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{2FD13691-137F-4FB0-988A-215B37EDC576}</ProjectGuid>
