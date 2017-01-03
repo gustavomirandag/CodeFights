@@ -51,5 +51,8 @@
     <ClCompile Include="ListForestEdge\RemoveArrayPart.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ListForestEdge\IsSmooth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
