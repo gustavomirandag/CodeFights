@@ -31,6 +31,7 @@
     <ClCompile Include="ListForestEdge\CreateArray.cpp" />
     <ClCompile Include="ListForestEdge\FirstReverseTry.cpp" />
     <ClCompile Include="ListForestEdge\IsSmooth.cpp" />
+    <ClCompile Include="ListForestEdge\MakeArrayConsecutive2.cpp" />
     <ClCompile Include="ListForestEdge\RemoveArrayPart.cpp" />
     <ClCompile Include="ListForestEdge\ReplaceMiddle.cpp" />
   </ItemGroup>
