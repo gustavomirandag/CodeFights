@@ -48,5 +48,8 @@
     <ClCompile Include="ListForestEdge\FirstReverseTry.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ListForestEdge\RemoveArrayPart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
