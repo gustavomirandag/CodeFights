@@ -15,3 +15,10 @@ int countSumOfTwoRepresentations2(int n, int l, int r) {
 	l = std::max(l, n - r);
 	return n / 2 - l + 1;
 }
+
+//O(1) JavaScript solution
+/*
+function countSumOfTwoRepresentations2(n, l, r) {
+	return Math.max(Math.min(Math.floor(n / 2) - l, r - Math.ceil(n / 2)) + 1, 0);
+}
+*/
