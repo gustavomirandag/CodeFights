@@ -63,5 +63,8 @@
     <ClCompile Include="LoopTunnel\LeastFactorial.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LoopTunnel\CountSumOfTwoRepresentations2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
