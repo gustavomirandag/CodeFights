@@ -36,6 +36,7 @@
     <ClCompile Include="ListForestEdge\ReplaceMiddle.cpp" />
     <ClCompile Include="LoopTunnel\CountSumOfTwoRepresentations2.cpp" />
     <ClCompile Include="LoopTunnel\LeastFactorial.cpp" />
+    <ClCompile Include="LoopTunnel\Lineup.cpp" />
     <ClCompile Include="LoopTunnel\MagicalWell.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
