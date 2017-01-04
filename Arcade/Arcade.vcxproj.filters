@@ -66,5 +66,8 @@
     <ClCompile Include="LoopTunnel\CountSumOfTwoRepresentations2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LoopTunnel\MagicalWell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
