@@ -6,6 +6,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+# To protect CompanyBots and Tournaments directory
+*.opensdf
+*.sdf
+*.sln
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -15,6 +19,8 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
+CompanyBots/
+Tournaments/
 x64/
 x86/
 bld/
